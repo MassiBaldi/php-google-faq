@@ -66,10 +66,10 @@ a {
   width: 80%;
   height: 1900px;
   margin: 0 auto;
-  padding-top: 100px;
 }
 
 .main h2 {
+  padding-top: 50px;
   color: #3c4043;
 }
 
